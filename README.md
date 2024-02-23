@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 💬 Ask me about when to use Cauchy's Integral Formula or how to differentiate individuals with Anti-Social Personality Disorder and Psychopaths \
 📫 How to reach me: jasmine1012014g@gmail.com ! \
 😄 Pronouns: She/Her \
-⚡ Fun fact: It is a myth that psychopaths are born and that they cannot be treated! \
+⚡ Fun fact: It is a myth that psychopaths are born and that they cannot be treated! \ 

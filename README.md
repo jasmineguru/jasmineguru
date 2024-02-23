@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hallo 👋 My name is Jasmine.
+### I am a 3rd year Math, Psychology and Computer Science student @ UofT Mississauga🦌!
 <!--
 **jasmineguru/jasmineguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

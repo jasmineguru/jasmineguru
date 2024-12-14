@@ -1,6 +1,6 @@
 ## Hallo 👋 My name is Jasmine.
 ### I am a 3rd year Math, Psychology and Computer Science student @ UofT Mississauga 🦌💫
-### Curious of Careers in Data / Full-Stack / Front-End / Business Analysis / Product Management ...ik im in decisive
+### Curious of Careers in Data (or Business Analysis) / Full-Stack / Product Management ...ik im in decisive
 <!--
 **jasmineguru/jasmineguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 😄 Pronouns: She/Her
 ⚡ Fun fact: It is a myth that psychopaths are born and that they cannot be treated! 
 -->
-🔭 I’m currently working at MDA Space in Software Dev!
-🌱 I’m currently re-learning/reviewing databases becuase SELECT me FROM high_risk_in_unemployment
+🔭 I’m currently working at MDA Space in Software Dev!\
+🌱 I’m currently re-learning/reviewing databases becuase SELECT me FROM high_risk_in_unemployment\
 👯 I’m looking to collaborate on quite literally anything, I am open to learning any new technology/skills with anyone from any background! \
 🤔 I’m looking for help with how to tap into any of the fields above? \
 💬 Ask me about when to use Cauchy's Integral Formula or types of personality disorders from DSM 5! \

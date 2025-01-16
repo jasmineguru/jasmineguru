@@ -1,6 +1,6 @@
 ## Hallo 👋 My name is Jasmine.
 ### I am a 3rd year Math, Psychology and Computer Science student @ UofT Mississauga 🦌💫
-### Curious of Careers in Data (or Business Analysis) / Full-Stack / Product Management ...ik im in decisive
+### Curious of Careers in Data (or Business Analysis) / Full-Stack / Product Management ...uh kinda indecisive
 <!--
 **jasmineguru/jasmineguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

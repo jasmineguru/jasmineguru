@@ -1,5 +1,5 @@
 ## Hallo 👋 My name is Jasmine.
-### I am a 3rd year Math, Psychology and Computer Science student @ UofT Mississauga 🦌💫
+### I am a Math and Psychology double major w/ Computer Science minor student @ UofT Mississauga 🦌💫
 ### Curious about Careers in Data / Product Management :>
 <!--
 **jasmineguru/jasmineguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

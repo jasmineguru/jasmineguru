@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 😄 Pronouns: She/Her
 ⚡ Fun fact: It is a myth that psychopaths are born and that they cannot be treated! 
 -->
-🔭 I’m currently working at MDA Space in Software Dev\
-🌱 I’m currently re-learning/reviewing databases since SELECT me FROM high_risk_in_unemployment\
-👯 I’m looking to collaborate on quite literally anything, I am open to learning any new technology/skills with anyone from any background (from baking to data analysis)! \
-🤔 I’m looking for help with how to tap into any of the fields above? \
-💬 Ask me about when to use Cauchy's Integral Formula or types of personality disorders from DSM 5 \
-📫 How to reach me: jasmine.guruparan@mail.utoronto.ca \
+🔭 I’m currently working at MDA Space in Software Tools\
+🌱 I’m currently honing my skills to become a Excel and VBA wizard and doing more with Servlets\
+👯 I’m looking to collaborate on projects relating to data analysis and webdev (backend...or frontend(my biggest ops) \
+🤔 I’m looking for help with how to get ideas on projects to build and how to realistically define a development timeline\
+💬 Ask me about group theory! (taking mat301 rn)\
+📫 How to reach me: jasmine.guruparan@mail.utoronto.ca OR jasmine1012014g@gmail.com \
 😄 Pronouns: She/Her \
 ⚡ Fun fact: It is a myth that psychopaths are born and that they cannot be treated! 

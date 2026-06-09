@@ -1,6 +1,6 @@
 ## Hallo 👋 My name is Jasmine.
-### I am a Math and Psychology double major w/ Computer Science minor student @ UofT Mississauga 🦌💫
-### Curious about low-level programming (re-learning C and learning C++ for now!)
+### I am a Math @ UofT 
+### Curious about (...anything dev?) Android dev (for now)
 <!--
 **jasmineguru/jasmineguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 😄 Pronouns: She/Her \
 ⚡ Fun fact: It is a myth that psychopaths are born and that they cannot be treated!  -->
 
+<!--
 🔭 I’m currently a student but also work for Engineering Outreach UofT as a coding instructor!\
 🌱 I’m currently trying to learn c++ and Wordpress\
 👯 I’m looking to apply my c++ learning on some project (I'm also curious about projects that bridge sciences and software) \
@@ -33,3 +34,13 @@ Here are some ideas to get you started:
 📫 How to reach me: jasmine.guruparan@mail.utoronto.ca OR jasmine1012014g@gmail.com \
 😄 Pronouns: She/Her \
 ⚡ Fun fact: It is a myth that psychopaths are born and that they cannot be treated! 
+-->
+
+🔭 I’m currently a student!\
+🌱 I’m currently working on making Bolt (ios workout tracker) for Android (calling it ABolt for now)\
+👯 I’m looking to learn how to be a better problem solver (in dev design and in life!) \
+🤔 I’m looking for help with getting started with embedded systems (done only a bit of arduino so far)\
+💬 Ask me the Heat equation(taking APM345 rn D:)!\
+📫 How to reach me: jasmine1012014g@gmail.com \
+😄 Pronouns: She/Her \
+⚡ Fun fact: It is a myth that psychopaths are born and it is true that they can be treated! (I am also in psych 😅)
